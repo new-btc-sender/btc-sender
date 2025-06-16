@@ -217,4 +217,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  13 June
+
+
+Update:  16 June 2025 Updated design pattern reference links
